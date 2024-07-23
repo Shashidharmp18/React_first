@@ -1,1 +1,1 @@
-<i>First React</i>
+<i>First React App</i>
